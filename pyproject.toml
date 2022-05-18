@@ -4,8 +4,7 @@
 requires = [
     "setuptools",
     "wheel",
-    "oldest-supported-numpy",
-    "pkgconfig",
+    "numpy",
     "Cython >=0.29; python_version<'3.8'",
     "Cython >=0.29.14; python_version=='3.8'",
     "Cython >=0.29.15; python_version>='3.9'",
